@@ -1,0 +1,21 @@
+
+#container{
+    border: 2px solid black;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+}
+
+#submit{
+    text-align: center;
+    /* width: 20%; */
+    border: 1px solid red;
+    font-size: 15px;
+}
+
+#show{
+    text-align: center;
+    /* width: 20%; */
+    border: 1px solid red;
+    font-size: 15px;
+}

@@ -1,0 +1,15 @@
+
+#container{
+    border: 2px solid black;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+}
+
+#submit{
+    text-align: center;
+    background-color:lightblue;
+    width: 100%;
+    font-size: 15px;
+}
+
